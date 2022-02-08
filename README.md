@@ -1,7 +1,7 @@
 
 # MealFinder-Javascript
 
-Search and generate random meals from [TheMealDB API)(https://www.themealdb.com)
+Search and generate random meals from [TheMealDB API](https://www.themealdb.com)
 
 
 ## Installation
